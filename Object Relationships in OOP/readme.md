@@ -12,6 +12,8 @@ Aggregation is one of several ways objects relate to each other. Here is the ful
 | **Inheritance** | "Is-a", child extends parent | n/a | Strongest | Monitor is a Device |
 | **Dependency** | One class uses another temporarily (parameter, local variable) | Short-lived | Weakest | Method takes a `Logger` argument |
 
+<img src="https://github.com/Metropolia-s-Open-UAS/OOP-in-CSharp/blob/main/Object%20Relationships%20in%20OOP/oop_relationships_uml.png" alt="UML Image">
+
 #### Aggregation vs. composition
 
 | | Aggregation | Composition |
